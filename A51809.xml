@@ -1,0 +1,599 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Sacred Majesty, King William III, a panegyrick presented to the Earl of Portland / by Mr. Manning.</title>
+            <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51809</idno>
+            <idno type="STC">Wing M490</idno>
+            <idno type="STC">ESTC R15612</idno>
+            <idno type="EEBO-CITATION">12006084</idno>
+            <idno type="OCLC">ocm 12006084</idno>
+            <idno type="VID">52334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 817:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Sacred Majesty, King William III, a panegyrick presented to the Earl of Portland / by Mr. Manning.</title>
+                  <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[4], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Weld ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52334:1"/>
+            <p>TO His Sacred MAJESTY, King WILLIAM III. A PANEGYRICK. Preſented to the EARL of PORTLAND.</p>
+            <p>The Second Edition.</p>
+            <p>By Mr. <hi>MANNING.</hi>
+            </p>
+            <q>
+               <l>Nil majus generatur Ipſo,</l>
+               <l>Nec Viget Quidquam ſimile.</l>
+               <bibl>Horat.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Weld,</hi> at the Crown in <hi>Fleet-ſtreet,</hi> between the two <hi>Temple-gates.</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52334:2"/>
+            <pb facs="tcp:52334:2"/>
+            <head>To the Right Honourable, WILLIAM Earl of PORTLAND, &amp;c. Knight of the Moſt Noble Order of the Garter.</head>
+            <lg>
+               <l>SInce by ſo Earneſt, and ſo Wiſe a Care</l>
+               <l>You Rule that Treaty which Concludes the War:</l>
+               <l>Since <hi>Europe</hi> doth Confeſs the Peace is due</l>
+               <l>Next to our matchleſs King, my Lord, to You.</l>
+               <l>Well may the Muſes grateful Offerings raiſe</l>
+               <l>To Him, whoſe Worth ſo far tranſcends their Praiſe:</l>
+               <l>Him, whoſe unwearied Services commend</l>
+               <l>The Faithfulſt Subject, and the Faithfulſt Friend.</l>
+            </lg>
+            <lg>
+               <l>Accept my Lord, a Muſe that ſtrives to Sing</l>
+               <l>The Greateſt Hero, and the Greateſt King.</l>
+               <l>She ſtrives indeed, but to her Coſt ſhe found</l>
+               <l>Her Voice too Weak for ſo Sublime a Sound.</l>
+               <l>A Theme ſo Lofty, and a Work ſo Bold,</l>
+               <l>Ask ſtrength and Fancy not to be Controul'd.</l>
+            </lg>
+            <lg>
+               <l>Like a rude Painter, whom propitious Chance</l>
+               <l>Directs (unknown) ſome Likeneſs to advance:</l>
+               <pb facs="tcp:52334:3"/>
+               <l>All I can boaſt amounts alone to bring</l>
+               <l>Some faint Reſemblance of ſo Brave a King.</l>
+               <l>
+                  <hi>Portland</hi> is able beſt to judge How well</l>
+               <l>The Picture ſhews the Great Original:</l>
+               <l>Can with a glance Diſcern, if in the Lines</l>
+               <l>Ought that is like a true Proportion ſhines.</l>
+            </lg>
+            <lg>
+               <l>For You have from the Hero's mouth been taught</l>
+               <l>His gallant Aims, and all his inmoſt Thought.</l>
+               <l>And have Your Self been Witneſs of the Toil</l>
+               <l>He ſpent in Arms to ſave the Brittiſh Soil.</l>
+            </lg>
+            <lg>
+               <l>How with amazing Valour He purſu'd</l>
+               <l>His numerous Foes thro' Duſt, and Fire, and Blood.</l>
+               <l>Whilſt His Triumphant Fleet at his Command</l>
+               <l>Diſpers'd His Thunder thro' the Hoſtile Land:</l>
+               <l>Deſtroying Towns, and Navys that preſume</l>
+               <l>To ſhare His Ocean, and to tempt their Doom.</l>
+               <l>Till now their Maſter, fearful of His Pow'r,</l>
+               <l>Solicites Peace, which he Diſdain'd before.</l>
+               <l>With haſt He Signs, releaſing All his Claim</l>
+               <l>To Towns and Countries won, and bends to <hi>William</hi>'s Name.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:52334:3"/>
+            <head>TO THE KING.</head>
+            <lg>
+               <l>VOuchſafe, Great Sir, to hear without diſdain</l>
+               <l>Some of the Wonders that Compoſe your Reign.</l>
+               <l>Take as your Due, ſuſpending Arms a while,</l>
+               <l>The Title of <hi>Preſerver of our Iſle.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other Monarchs found a wide Command</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Laws Subverted, or a Conquered Land:</l>
+               <l>Born for the World's Relief, You glory more</l>
+               <l>To free that Nation, and thoſe Laws reſtore.</l>
+               <l>There needs no Conqueſt to maintain Your Sway,</l>
+               <l>You Reign o'er People willing to Obey.</l>
+            </lg>
+            <lg>
+               <l>When Parents, loſt to Nature, would forſake</l>
+               <l>Their Children, and the juſt Succeſſion break:</l>
+               <l>Who blames an Heir, that with propitious Speed</l>
+               <l>Sets forth his Claim, and labours to Suceed?</l>
+               <l>So when old <hi>Saturn</hi> had reſolv'd to chaſe</l>
+               <l>His Eldeſt <hi>Jove,</hi> and all his Lawful Race;</l>
+               <l>Mov'd with the Wrong, the injur'd Son aroſe,</l>
+               <l>Maintain'd his Title, and Diſpers'd his Foes.</l>
+            </lg>
+            <lg>
+               <l>And here, Great King, what Praiſe and Thanks are due</l>
+               <l>For <hi>England</hi>'s Happineſs reſtor'd by You!</l>
+               <l>What ſtorms of Fury this poor Iſland toſs't,</l>
+               <l>Before You landed on the <hi>Brittiſh</hi> Coaſt!</l>
+               <pb n="2" facs="tcp:52334:4"/>
+               <l>The brand of Zeal was ready to inflame</l>
+               <l>Its Boſom, and deſtroy our native Claim</l>
+               <l>To Liberty, Religion, Law and Right,</l>
+               <l>When to prevent it, We Your aid invite.</l>
+               <l>You came, You ſaw, like <hi>Caeſar</hi> You ſucceed,</l>
+               <l>And all our Captive-Laws by You are freed.</l>
+               <l>So <hi>Perſeus</hi> once, to ſave the injur'd Maid,</l>
+               <l>Flew o'er the Deep, and brought a timely Aid.</l>
+            </lg>
+            <lg>
+               <l>Fain would I dwell upon this great Relief,</l>
+               <l>That fix'd our Safety, and diſpers'd our Grief.</l>
+               <l>Recorded Let it be to future Time,</l>
+               <l>Inſpiring Poets with unuſual Rhime.</l>
+               <l>Let the Triumphant Subject fill each Page,</l>
+               <l>Exalt their Numbers, and increaſe their Rage.</l>
+               <l>But then, how Large, how Bright ſhould be the Flame</l>
+               <l>That dares attempt to ſpread the Hero's Fame!</l>
+               <l>He, who like Lightning ſhone upon our Land,</l>
+               <l>(Dread in his Look, and Juſtice in his Hand,)</l>
+               <l>Yet when He ſhot thro' every guarded place</l>
+               <l>Forbore his Vengeance, and diſplay'd his Grace.</l>
+            </lg>
+            <lg>
+               <l>A Love ſo Wondrous, and an Act ſo Bold</l>
+               <l>Make us believe Thee ſcarce of humane Mould:</l>
+               <l>But (what's more ſuited to ſuch Deeds) that Fate</l>
+               <l>Some Guardian Angel ſent to prop a ſinking State.</l>
+            </lg>
+            <lg>
+               <l>Pale Horror now, nor Crimſon Slaughter bear</l>
+               <l>Your feet aſcending to the Regal Chair.</l>
+               <l>How ſoon our Great Preſerver did unite</l>
+               <l>The Monarch's Grandeur, and the People's Right!</l>
+               <l>How ſoon were all our gathering Tempeſts o'er,</l>
+               <l>When once You ſhew'd Your Perſon on our ſhore!</l>
+               <l>So when the Winds at <hi>Juno</hi>'s ſuit aroſe,</l>
+               <l>And pour'd impetuous fury on her Foes:</l>
+               <l>The Oceans God did all his Care employ</l>
+               <l>To lay thoſe Winds, and ſave remaining <hi>Troy.</hi>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:52334:4"/>
+            <lg>
+               <l>
+                  <hi>France</hi> for an Age her deep Deſigns had laid,</l>
+               <l>And for a War a Vaſt Proviſion made:</l>
+               <l>Whilſt Neighb'ring Kings obſerv'd it not, or drown'd</l>
+               <l>In ſoft Amuſements, ſlighted what they found.</l>
+               <l>Or what is worſe, expected to partake</l>
+               <l>That Pow'r that did the World's whole Fabrick ſhake.</l>
+               <l>Thus Fleets were built, and Armies on the ſtrand</l>
+               <l>Inſulting ſpread a Fear thro' every Land.</l>
+               <l>On You, Brave Prince, the low'ring Tempeſt fell,</l>
+               <l>And Storms increaſe as You their Rage repell.</l>
+               <l>
+                  <hi>France,</hi> Hydra-like, no ſooner loſt one Head,</l>
+               <l>But ſtill Two more ſeem'd riſen in its ſtead.</l>
+               <l>Till You, purſuing with <hi>Herculean</hi> Toil,</l>
+               <l>Oppos'd her Progreſs, and regain'd the Spoil.</l>
+            </lg>
+            <lg>
+               <l>Plac'd in the Throne, by Law, by Right your Due</l>
+               <l>All our Complaints are ſoon redreſs'd by You.</l>
+               <l>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more with joy we ſee our Laws reſtor'd,</l>
+               <l>The Nation's Honour, and the Prince's VVord.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> People now, whoſe univerſal Voice</l>
+               <l>Gave Thee the Crown, confirm the worthy Choice.</l>
+               <l>The grateful Senate votes with joynt Applauſe</l>
+               <l>Sufficient Aids for Thine, and <hi>Europe</hi>'s Cauſe.</l>
+               <l>VVhilſt You with care diſpoſing of the ſame,</l>
+               <l>Make large returns of Empire and of Fame.</l>
+               <l>Thus <hi>Scotland</hi> (when Rebellious Arms withſtood</l>
+               <l>The Joynt Election, and the Publick Good)</l>
+               <l>Glad to contribute to your Fame's increaſe,</l>
+               <l>VVas by your Arms reſtor'd to native Peace.</l>
+            </lg>
+            <lg>
+               <l>'Twas here a Savage Brood maintain'd the VVar,</l>
+               <l>Bred among Rocks, and harden'd by Deſpair,</l>
+               <l>Eager of Blood, inur'd to Toil and Cold,</l>
+               <l>Led by a hardy Rebel, Firm and Bold,</l>
+               <l>In vain attempted with a fierce Career</l>
+               <l>To check Thy Progreſs, and thy Laurels tear.</l>
+               <pb n="4" facs="tcp:52334:5"/>
+               <l>Fill'd with Thy Genius brave <hi>Mackay</hi> receiv'd</l>
+               <l>The Sturdy Foe, who ſuch bold Acts atchiev'd,</l>
+               <l>That had his Cauſe been Right, his Fortune we had greiv'd.</l>
+               <l>But This may ſhew what Fate's decreed for Thoſe</l>
+               <l>VVhoſe impious Arms dare ſuch a King oppoſe.</l>
+            </lg>
+            <lg>
+               <l>To <hi>Ireland</hi> paſſing next I ſhould diſcloſe,</l>
+               <l>Great King, Thy Triumphs over other Foes.</l>
+               <l>There ſhould I trace Thee to the duſty Fight,</l>
+               <l>Plung'd in the midſt, and mov'd with fierce Delight:</l>
+               <l>Purſuing Squadrons of the yielding Foe,</l>
+               <l>VVhilſt <hi>Boyn</hi>'s white VVaves grew red at every blow:</l>
+               <l>VVhen Bullets by Divine Commiſſion flew,</l>
+               <l>And pitying <hi>Europe</hi>'s ſtate diſtinguiſh'd You.</l>
+               <l>What Perils in the Tumult didſt thou run,</l>
+               <l>Confronting Death, which had the World undone!</l>
+               <l>But Providence thy Guardian ever found,</l>
+               <l>Exchang'd the Ruine for a painful Wound.</l>
+            </lg>
+            <lg>
+               <l>O that I had but <hi>Waller</hi>'s Heavenly flame</l>
+               <l>Powerful and Bright, proportion'd to Your Fame:</l>
+               <l>In Verſe triumphant as my Theme, I'd ſing</l>
+               <l>The Godlike Deeds of happy <hi>Britain</hi>'s King!</l>
+               <l>How ſwift as <hi>Phoebus</hi> Rays he Pierc'd each place,</l>
+               <l>Terror and Conqueſt lightned from his Face:</l>
+               <l>His Foes Aſtoniſh'd, Sunk upon the Plain,</l>
+               <l>And ſcarce a Few eſcap'd Affrighted o'er the Main.</l>
+            </lg>
+            <lg>
+               <l>But Theſe are Stroaks that claim a Maſter's Hand,</l>
+               <l>Unfit for me to touch, what Few can e're Command.</l>
+               <l>Mean while as long as Silver <hi>Boyne</hi> ſhall flow,</l>
+               <l>And fruitful Crops to neighbouring Meads beſtow:</l>
+               <l>As long as <hi>Mountague</hi>'s exalted Page,</l>
+               <l>Fill'd with Thy Glorys ſhall retain its Rage.</l>
+               <l>As long as <hi>Ireland</hi>'s reſcu'd Laws ſhall ſtand,</l>
+               <l>So long Thy Conqueſts ſhall adorn That Land.</l>
+            </lg>
+            <pb n="5" facs="tcp:52334:5"/>
+            <lg>
+               <l>Nor is Thy Conquering Soul to Lands confin'd,</l>
+               <l>The Ocean has to Thee her Bounds refign'd.</l>
+               <l>Lord of the Sea, where e're Thy Fleets are found,</l>
+               <l>The wondring Coaſts Thy ſettled Fame reſound.</l>
+               <l>The <hi>French,</hi> obſerving where Thy Navy rides,</l>
+               <l>Keep cloſe at home, nor dare They truſt the Tides.</l>
+               <l>Too well They call to mind that Fatal hour</l>
+               <l>When <hi>Ruſſel</hi> chas'd Them with his floating Power.</l>
+               <l>The harmleſs <hi>Tourville</hi> thought it time to fly,</l>
+               <l>When he perceiv'd an <hi>Engliſh</hi> Fleet was nigh.</l>
+               <l>This is our Iſlands Strength: ſhould Armies fail,</l>
+               <l>The Terror of our Ships would ſtill prevail.</l>
+               <l>But thou at once art Fear'd upon the Plain,</l>
+               <l>And art Supream Controuler of the Main.</l>
+               <l>Well then may <hi>Tourville</hi> and the <hi>Gallick</hi> Fleet</l>
+               <l>Deſpair of Safety, when our Force They meet.</l>
+               <l>
+                  <hi>La Hogue</hi>'s remembred ſtill, whoſe Dreadful Name</l>
+               <l>Confounds their Spirits, and reveals their Shame.</l>
+               <l>With what Impatience did the Foes retire,</l>
+               <l>Led by the Light of their Own Navy's Fire!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Namur</hi> ſhould be One Subject of my Song,</l>
+               <l>
+                  <hi>Namur,</hi> ſo Great, ſo Daring and ſo Strong.</l>
+               <l>No common Fortreſs here deludes Your Fame,</l>
+               <l>This won, You ſpread throughout the Globe Your Name.</l>
+               <l>Nature and Art, Blood, Fire, and Rage combine</l>
+               <l>To diſappoint the Bold, the Brave Deſign.</l>
+               <l>How did the battering Canons prove their Force,</l>
+               <l>And fierce Battalions ſtorm it in their Courſe!</l>
+               <l>In vain the warm Defenders would repell</l>
+               <l>Your Conquering Troops, for when the Boldeſt fell,</l>
+               <l>A New Supply was ſtill reſerv'd behind,</l>
+               <l>The ſame the Boldneſs, and the Conquering mind.</l>
+               <l>
+                  <hi>Cuits</hi> leads them on, the King's Example fires</l>
+               <l>The Hero, and to Conqueſt Him inſpires.</l>
+            </lg>
+            <pb n="6" facs="tcp:52334:6"/>
+            <lg>
+               <l>Now would I Draw collected near the Town</l>
+               <l>The Foes United Strength to finiſh Thy Renown.</l>
+               <l>In vain doth <hi>Villeroy</hi> threaten to advance</l>
+               <l>With all the Pride, and all the Power of <hi>France:</hi>
+               </l>
+               <l>In vain pretends with a Superior Force</l>
+               <l>To brave Your Army, and divert Your Courſe.</l>
+               <l>Slighting his Threats, quick Orders You diſpence</l>
+               <l>To Storm the Fort, in ſpight of all Defence:</l>
+               <l>To gain their Lodgments, and the Work purſue,</l>
+               <l>Contemning All that Foes on either ſide can do.</l>
+            </lg>
+            <lg>
+               <l>Mean while the <hi>French</hi> are much alarm'd to find</l>
+               <l>Such Reſolution, and ſuch Conduct joyn'd.</l>
+               <l>Amaz'd at all the Actions they Behold,</l>
+               <l>At Troops ſo Daring, and a King ſo Bold,</l>
+               <l>Stand gazing on to ſee the Fort reſign'd,</l>
+               <l>And own <hi>Naſſau</hi> the Greateſt of Mankind.</l>
+            </lg>
+            <lg>
+               <l>Thus Thoſe, who aim'd at Univerſal Sway,</l>
+               <l>Are here Compell'd to Wonder and Obey.</l>
+               <l>Thoſe who with Gold ſo often had o'errun</l>
+               <l>Whole Provinces, and ſtrongeſt Places won,</l>
+               <l>Oppos'd in open VVar decline the Field,</l>
+               <l>Atteſt Your Valour, and Conſent to Yeild.</l>
+            </lg>
+            <lg>
+               <l>THIS were a Task indeed; but, oh! my Muſe,</l>
+               <l>Unknowing to be Bold muſt ſuch a Work refuſe.</l>
+               <l>Far from the War ſhe humbly ſeeks to rove,</l>
+               <l>And ſing in ſofter Strains of Peace and Love.</l>
+               <l>Now may ſhe ſing of both, for <hi>Mars</hi> reſigns</l>
+               <l>His Empire, <hi>Venus</hi> with <hi>Apollo</hi> joyns:</l>
+               <l>The God of Day triumphs, again ſerenely ſhines.</l>
+            </lg>
+            <pb n="7" facs="tcp:52334:6"/>
+            <lg>
+               <l>War's now no more, the Trumpet's ſhrill Alarm</l>
+               <l>Excites no Terror, and implies no Harm.</l>
+               <l>No longer now deſtructive Engines roar,</l>
+               <l>No longer breath Defiance from our Shore:</l>
+               <l>Inſtead of Thunder, Peals of Joy afford,</l>
+               <l>For Your Return, and for the Peace reſtor'd.</l>
+               <l>Reſtor'd by You, Great KING! for You alone</l>
+               <l>Cou'd check th' Enlargment of the <hi>Gallick</hi> Throne.</l>
+               <l>Let others boaſt ignoble Foes to tame,</l>
+               <l>Foes much unequal and unus'd to Fame:</l>
+               <l>Unlike ſuch Victors, ſtronger Armies You,</l>
+               <l>E'en in their height of Triumphs can ſubdue.</l>
+            </lg>
+            <lg>
+               <l>War's now no more, let every Wind diffuſe,</l>
+               <l>Where'er the Ocean rouls the happy News.</l>
+               <l>On every Shore ſhall preſſing Throngs be found,</l>
+               <l>Prepar'd with liſt' ning Ears to catch the joyfull Sound.</l>
+               <l>With Shouts of Gladneſs ſhall the Tidings hear,</l>
+               <l>Reſume their Spirits and diſcharge their Fear.</l>
+            </lg>
+            <lg>
+               <l>War's now no more, the humble Shepherds lead</l>
+               <l>Their Flocks with Joy, ſecurely now they feed.</l>
+               <l>The Husbandman no more his Toil reſtrains,</l>
+               <l>But reaps Himſelf the Harveſt of his pains.</l>
+               <l>The thriving Merchant unmoleſted joyns</l>
+               <l>Both <hi>Indies,</hi> and returns with ſailing Mines.</l>
+               <l>The Muſes too their drooping Spirits raiſe,</l>
+               <l>And ſing aloud the <hi>PEACE,</hi> the Triumph of our Days.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Brittiſh</hi> Monarch has the laſting Fame</l>
+               <l>Of ſettling <hi>Europe</hi>'s Peace, and every Lawfull Claim.</l>
+               <l>What Pow'r on Earth could e'er have long withſtood</l>
+               <l>The juſt Attempt of one ſo Great, ſo Good?</l>
+               <pb n="8" facs="tcp:52334:7"/>
+               <l>A Prince, whoſe Name ſtrikes Terror in his Foes,</l>
+               <l>Secures a conſtant and a firm Repoſe.</l>
+            </lg>
+            <lg>
+               <l>A Fame ſo bright, ſo much beyond the Praiſe</l>
+               <l>Of modern Heroes, well might Wonder raiſe</l>
+               <l>Enough to make an<note n="*" place="margin">Czar of <hi>Moſcovy.</hi>
+                  </note> Emperor leave his Throne</l>
+               <l>So far remote, his Conqueſts newly won,</l>
+               <l>And Greater ſtill in view, to viſit Him alone.</l>
+               <l>So <hi>Sheba</hi>'s Queen to diſtant <hi>Judah</hi> came,</l>
+               <l>To ſee a Prince that fill'd the World with Fame.</l>
+            </lg>
+            <lg>
+               <l>To Thee, Great KING, united <hi>Europe</hi> gave</l>
+               <l>Their Armies to command, their Rights to ſave.</l>
+               <l>Wiſely They choſe, for what Their joynt Conſent</l>
+               <l>Reſolv'd, is anſwer'd by the Great Event.</l>
+               <l>By long Experience of Your Arms They knew</l>
+               <l>What ſuch a Leader, ſuch a King could do.</l>
+            </lg>
+            <lg>
+               <l>No Wonder then Thy vaſt Heroick Toil</l>
+               <l>Makes Mighty Princes court the <hi>Brittiſh</hi> Soil,</l>
+               <l>In Perſon come to view and to admire</l>
+               <l>Him, who has ſav'd the World from Rage and Fire;</l>
+               <l>Who, fearleſs, thro' incircling Dangers ſprung,</l>
+               <l>Eager of Fame, Wiſe, Pow'rful, Brave, and Young,</l>
+               <l>And whereſoe'er He flew, brought Victory along.</l>
+            </lg>
+            <lg>
+               <l>O, how I could enlarge this pleaſing Scene!</l>
+               <l>(The Subject pleaſes, tho' the Verſe be mean)</l>
+               <l>But that I know your Patience and your Time</l>
+               <l>Too weighty to be ſpent on trifling Rhime.</l>
+               <l>Elſe would I ſpread the Glories of Thy Line,</l>
+               <l>How Great, how full of Splendor, how Divine!</l>
+               <pb n="9" facs="tcp:52334:7"/>
+               <l>What heaps of Honours, and of Conqueſts grace</l>
+               <l>The numerous Branches of Thy Godlike Race!</l>
+               <l>Triumphant, All the Publick Good purſue,</l>
+               <l>And yet are pleas'd to be outdone by You.</l>
+            </lg>
+            <lg>
+               <l>But yet, ſo Great, ſo Gallant, ſo Renown'd</l>
+               <l>As Thou in all the Courts of Fame art found,</l>
+               <l>Yet have we ſeen Thee All the Man forego,</l>
+               <l>Laviſh in Grief, and far oppreſs'd with Woe.</l>
+               <l>But then, what Power is This, that could Controul</l>
+               <l>Such Martial Heat, and Shake ſo firm a Soul?</l>
+               <l>
+                  <hi>MARIA</hi> could Alone. <hi>MARIA</hi>'s hapleſs Fate</l>
+               <l>Made All the Hero Sink, the Fierce, the Bold, the Great.</l>
+            </lg>
+            <lg>
+               <l>Oh! She was Goodneſs All, with Pride unſtain'd,</l>
+               <l>And yet the Port of Majeſty retain'd.</l>
+               <l>Of Manly Spirit, yet Serene of Face,</l>
+               <l>Adorn'd with every Virtue, every Grace.</l>
+               <l>Whilſt in her Eyes tranſcendent Charms were ſeen,</l>
+               <l>
+                  <hi>Minerva</hi>'s Wiſdom, <hi>Juno</hi>'s Awful Meen,</l>
+               <l>Aroſe Conſpicuous in This <hi>Matchleſs Q<g ref="char:V">Ʋ</g>EEN.</hi>
+               </l>
+               <l>Pow'r, Mercy, Bounty, All conſpir'd to ſhow</l>
+               <l>The World an Angel, whilſt She liv'd below.</l>
+            </lg>
+            <lg>
+               <l>Juſt were Thy Tears on This occaſion ſhewn,</l>
+               <l>For ſuch a Loſs no Age had ever known.</l>
+               <l>With Thee whole Nations wept, and preſs'd with Grief</l>
+               <l>Prolong'd their Mourning, careleſs of Relief.</l>
+               <l>Thine was a nearer Loſs; We more admire</l>
+               <l>Thou couldſt ſo ſoon revive Thy Martial Fire,</l>
+               <l>Than that we ſaw Thy Tears: but Fate ordain'd</l>
+               <l>The <hi>Hero</hi> ſtill ſhould riſe, and ſo his Grief reſtrain'd.</l>
+            </lg>
+            <pb n="10" facs="tcp:52334:8"/>
+            <lg>
+               <l>Now has He gain'd his Height, for what remains</l>
+               <l>For Valour to perform, ſince <hi>Europe</hi> Peace obtains?</l>
+               <l>This was His Work, in which the Hero ſpent</l>
+               <l>His Generous Blood for ſuch a Great Event.</l>
+               <l>A Work ſo full of Wonder and of Fame,</l>
+               <l>That all the World Conſents to rev'rence his Name.</l>
+            </lg>
+            <lg>
+               <l>Let other Writers other Acts rehearſe,</l>
+               <l>Diſplay His Bolder Deeds in Bolder Verſe;</l>
+               <l>Mine be the Task of Peace, diffuſing o'er</l>
+               <l>Its golden Fruits to every happy Shore.</l>
+               <l>Here, when I weigh, that None beſide was found</l>
+               <l>Able to check Ambition, and to bound</l>
+               <l>Inſulting Foes, whoſe project was to Awe</l>
+               <l>United Nations, and give <hi>Europe</hi> Law;</l>
+               <l>How am I rais'd with Wonder, and with Flame!</l>
+               <l>Rage, Fury, Tranſport, All that I can name,</l>
+               <l>Hurries me on to ſpread Thy Matchleſs Fame.</l>
+            </lg>
+            <lg>
+               <l>Who doth not feel th' Effect of all Thy Cares</l>
+               <l>At Home in Council, or Abroad in Wars?</l>
+               <l>What Part of All the Univerſe complains,</l>
+               <l>Whilſt ſo Renown'd, ſo Juſt a Monarch reigns?</l>
+               <l>Is there a Virtue, that to Human Senſe</l>
+               <l>Seems Uſeful, and goes Unrewarded hence?</l>
+               <l>By Thee the Muſes are advanc'd above</l>
+               <l>The People's Cenſure, or Uncertain Love.</l>
+               <l>Rais'd to Thy Councils, or in meaner Truſt,</l>
+               <l>Their leaſt degree of Merit's to be Juſt.</l>
+               <l>Thou know'ſt their Worth, and with Remark haſt ſeen</l>
+               <l>How faithful to Thy Service They have been.</l>
+               <pb n="11" facs="tcp:52334:8"/>
+               <l>In all Sublime Occaſions that Require</l>
+               <l>A Watchful Conduct, and an Active Fire:</l>
+               <l>Let the World judge, if Thoſe of <hi>Phoebus</hi> Train,</l>
+               <l>Thoſe whom the KING has choſen to retain,</l>
+               <l>Have e'er been found Remiſs in Needful Care,</l>
+               <l>Or in the Wiſh'd Succeſs without a Double Share.</l>
+               <l>Then let the KING the Muſes Tribe increaſe,</l>
+               <l>Indulge their Labours, and Secure their Peace.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
